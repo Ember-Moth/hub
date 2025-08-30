@@ -1,0 +1,1 @@
+import{e as s,l as i}from"./q-gSxxJeWo.js";import"./q-BKaOGYNW.js";const a=l=>s("div",null,{class:i(t=>["tooltip-arrow",t.class],[l]),style:i(t=>({width:`${t.width??10}px`,height:`${t.height??5}px`}),[l])},null,3,"DL_0");export{a as s_2ouUGMdMpqM};

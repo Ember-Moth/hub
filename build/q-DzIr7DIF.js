@@ -1,1 +1,0 @@
-import{f as o}from"./q-Cfw5b693.js";import{j as s,l as r,m as t}from"./q-Q7QTf1-t.js";import"./q-R_PFgutd.js";import"./q-BKaOGYNW.js";const m=e=>s("li",{role:"presentation","aria-hidden":"true",...e,children:t(o,{class:"stroke-muted-foreground size-3.5 stroke-2",[r]:{class:r}},3,"2L_8")},{role:r,"aria-hidden":r},0,"2L_9");export{m as s_Znl13MOnw00};

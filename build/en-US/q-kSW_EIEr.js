@@ -1,0 +1,1 @@
+import{a as s,k as t,m as e,o as a,S as c}from"./q-gSxxJeWo.js";import{c as n}from"./q-DZzWbOQ9.js";import"./q-BKaOGYNW.js";const i=o=>{const r=`${s(n).localId}-error-message`;return t("div",{role:"alert",id:r,...o,children:a(c,null,3,"v5_0")},{role:e},0,"v5_1")};export{i as s_VNgc4h76cns};

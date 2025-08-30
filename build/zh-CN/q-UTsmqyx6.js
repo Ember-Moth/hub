@@ -1,1 +1,0 @@
-import{j as t,m as s,S as e}from"./q-Q7QTf1-t.js";import{M as r}from"./q-Cfw5b693.js";import"./q-BKaOGYNW.js";import"./q-R_PFgutd.js";const n=({...l})=>t("div",{...l,class:r("bg-muted absolute -z-10 flex h-full w-full items-center justify-center rounded-full",l.class),children:s(e,null,3,"FN_3")},null,0,"FN_4");export{n as s_cHQtQQSDbRQ};

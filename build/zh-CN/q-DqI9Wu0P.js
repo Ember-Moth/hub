@@ -1,0 +1,1 @@
+import"./q-BKaOGYNW.js";import{o as r,S as t}from"./q-gSxxJeWo.js";import{u as m}from"./q-DuNBRwv3.js";import{M as s}from"./q-B5TFmh5c.js";import"./q-CvYgVdLJ.js";const a=o=>r(m,{...o,class:s("relative flex items-center rounded",o.class),children:r(t,null,3,"Lc_7")},0,"Lc_8");export{a as s_uYqmA1sCZCM};

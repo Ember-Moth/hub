@@ -1,0 +1,1 @@
+import{k as r,o as s,S as o}from"./q-gSxxJeWo.js";import{M as l}from"./q-B5TFmh5c.js";import"./q-BKaOGYNW.js";import"./q-CvYgVdLJ.js";const i=t=>r("p",{...t,class:l("text-muted-foreground text-sm",t.class),children:s(o,null,3,"R4_6")},null,0,"R4_7");export{i as s_5nsJ01P3nrA};

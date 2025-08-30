@@ -1,0 +1,1 @@
+import"./q-BKaOGYNW.js";import{o as r,S as t}from"./q-gSxxJeWo.js";import{Y as s}from"./q-DuNBRwv3.js";import{M as m}from"./q-B5TFmh5c.js";import"./q-CvYgVdLJ.js";const c=({...o})=>r(s,{...o,class:m("flex items-center gap-1",o.class),children:r(t,null,3,"7d_0")},0,"7d_1");export{c as s_3r2oFdHvubQ};

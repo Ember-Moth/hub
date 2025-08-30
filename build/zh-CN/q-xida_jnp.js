@@ -1,1 +1,0 @@
-import"./q-BKaOGYNW.js";import{m as r,S as m}from"./q-Q7QTf1-t.js";import{D as s}from"./q-D3Ga_9CS.js";import{M as t}from"./q-Cfw5b693.js";import"./q-R_PFgutd.js";const n=o=>r(s,{...o,class:t("bg-background w-48 rounded border p-2",o.class),children:r(m,null,3,"Lc_13")},0,"Lc_14");export{n as s_MSaAm5Axx0M};

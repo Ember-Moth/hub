@@ -1,0 +1,1 @@
+import{u as c}from"./q-gSxxJeWo.js";import{_}from"./q-gSxxJeWo.js";import"./q-BKaOGYNW.js";const n=r=>{const[o,e]=c();return r!=null&&r.length&&[...r].reduce((t,s)=>t+s.size,0)>e?o:""};export{_ as _hW,n as s_rJ16VkBKS5E};

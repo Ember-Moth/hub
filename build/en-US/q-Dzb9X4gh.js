@@ -1,0 +1,1 @@
+import{u as o}from"./q-gSxxJeWo.js";import{_ as m}from"./q-gSxxJeWo.js";import"./q-BKaOGYNW.js";const p=r=>{const[s]=o();return r&&!/^(([^<>()[\].,;:\s@"]+(\.[^<>()[\].,;:\s@"]+)*)|(".+"))@(([^<>()[\].,;:\s@"]+\.)+[^<>()[\].,;:\s@"]{2,})$/i.test(r)?s:""};export{m as _hW,p as s_JaN4SIgBCtM};

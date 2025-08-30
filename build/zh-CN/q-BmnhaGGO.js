@@ -1,0 +1,1 @@
+import{k as t,o as r,S as l}from"./q-gSxxJeWo.js";import{M as o}from"./q-B5TFmh5c.js";import"./q-BKaOGYNW.js";import"./q-CvYgVdLJ.js";const p=({...s})=>t("div",{...s,class:o("flex items-center p-6 pt-0",s.class),children:r(l,null,3,"R4_10")},null,0,"R4_11");export{p as s_0xHS9Snh0p8};

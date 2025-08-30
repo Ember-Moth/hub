@@ -1,0 +1,1 @@
+import{k as l}from"./q-gSxxJeWo.js";import{M as m}from"./q-B5TFmh5c.js";import"./q-BKaOGYNW.js";import"./q-CvYgVdLJ.js";const i=({...s})=>l("img",{...s,class:m("aspect-square h-full w-full",s.class)},null,0,"FN_2");export{i as s_YsepAMFXaC8};

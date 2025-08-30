@@ -1,1 +1,0 @@
-import{j as r,m as t,S as l}from"./q-Q7QTf1-t.js";import{M as o}from"./q-Cfw5b693.js";import"./q-BKaOGYNW.js";import"./q-R_PFgutd.js";const n=s=>r("div",{...s,class:o("p-6 pt-0",s.class),children:t(l,null,3,"R4_8")},null,0,"R4_9");export{n as s_SjafEgKvIfc};

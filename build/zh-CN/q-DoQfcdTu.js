@@ -1,1 +1,0 @@
-import{j as r,l as s,m as o,S as t}from"./q-Q7QTf1-t.js";import"./q-BKaOGYNW.js";const e=({...l})=>r("div",{role:"tablist",...l,children:o(t,null,3,"6D_0")},{role:s},0,"6D_1");export{e as s_pOc21PX0l3c};

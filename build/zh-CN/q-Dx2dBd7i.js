@@ -1,0 +1,1 @@
+import{s as e,b as o}from"./q-CRLhHez8.js";import{_ as t}from"./q-BKaOGYNW.js";import{z as _,o as r,q as a}from"./q-gSxxJeWo.js";const l=e,n=Object.freeze(Object.defineProperty({__proto__:null,s_skL3E556KHA:l},Symbol.toStringTag,{value:"Module"})),p=s=>(_(a(()=>t(()=>Promise.resolve().then(()=>n),void 0),"s_skL3E556KHA")),r(o,{...s},0,"8G_0"));export{p as s,l as s_skL3E556KHA};

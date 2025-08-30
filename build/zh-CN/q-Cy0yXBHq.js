@@ -1,0 +1,1 @@
+import"./q-BKaOGYNW.js";import{o as t,S as r}from"./q-gSxxJeWo.js";import{N as s}from"./q-DuNBRwv3.js";import{M as m}from"./q-B5TFmh5c.js";import"./q-CvYgVdLJ.js";const c=({...o})=>t(s,{...o,class:m("text-muted-foreground text-sm",o.class),children:t(r,null,3,"SY_4")},0,"SY_5");export{c as s_dLAMfM9ie9Y};

@@ -1,0 +1,1 @@
+import{a as r,k as e,l,m as s,o as n,S as u}from"./q-gSxxJeWo.js";import{g as p}from"./q-DZzWbOQ9.js";import"./q-BKaOGYNW.js";const _=t=>{const o=r(p);return e("div",{"data-group-label":!0,get id(){return o.groupLabelId},...t,children:n(u,null,3,"99_0")},{"data-group-label":s,id:l(a=>a.groupLabelId,[o])},0,"99_1")};export{_ as s_nLlp1ccZua0};

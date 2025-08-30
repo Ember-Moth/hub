@@ -1,0 +1,1 @@
+import{k as r,o,S as l}from"./q-gSxxJeWo.js";import{M as t}from"./q-B5TFmh5c.js";import"./q-BKaOGYNW.js";import"./q-CvYgVdLJ.js";const _=({...s})=>r("div",{class:t("grid gap-2",s.class),...s,children:o(l,null,3,"bN_0")},null,0,"bN_1");export{_ as s_ZueXB6vjms8};

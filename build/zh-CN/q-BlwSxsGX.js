@@ -1,1 +1,0 @@
-import"./q-BKaOGYNW.js";import{m as o,S as r}from"./q-Q7QTf1-t.js";import{P as l}from"./q-D3Ga_9CS.js";import{M as s}from"./q-Cfw5b693.js";import"./q-R_PFgutd.js";const n=({...t})=>o(l,{...t,class:s("text-lg font-semibold tracking-tight",t.class),children:o(r,null,3,"SY_2")},0,"SY_3");export{n as s_OsTTlzODfAc};

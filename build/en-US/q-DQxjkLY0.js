@@ -1,1 +1,0 @@
-import"./q-BKaOGYNW.js";import{m as t,S as r}from"./q-Q7QTf1-t.js";import{z as m}from"./q-D3Ga_9CS.js";import{M as s}from"./q-Cfw5b693.js";import"./q-R_PFgutd.js";const n=({...o})=>t(m,{...o,class:s("text-sm",o.class),children:t(r,null,3,"Lc_5")},0,"Lc_6");export{n as s_rVtIw2fwpZY};

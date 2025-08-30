@@ -1,0 +1,1 @@
+import{k as o}from"./q-gSxxJeWo.js";import{M as s}from"./q-B5TFmh5c.js";import"./q-BKaOGYNW.js";import"./q-CvYgVdLJ.js";const n=({...r})=>o("div",{...r,class:s("bg-foreground/10 animate-pulse rounded",r.class)},null,0,"e0_0");export{n as s_BhqEIII0L5g};

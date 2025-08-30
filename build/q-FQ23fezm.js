@@ -1,1 +1,0 @@
-import{l as t}from"./q-R_PFgutd.js";import{u as a}from"./q-Q7QTf1-t.js";import{_hW as l}from"./q-Q7QTf1-t.js";import"./q-BKaOGYNW.js";const n=async()=>{const[r,o,s]=a();await t(o,s.assets,s.runtimeAssets,s.langs)};export{l as _hW,n as s_3ViHzm0oQjw};

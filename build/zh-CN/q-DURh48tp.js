@@ -1,1 +1,0 @@
-import{j as o,m,S as n}from"./q-Q7QTf1-t.js";import{M as r}from"./q-Cfw5b693.js";import"./q-BKaOGYNW.js";import"./q-R_PFgutd.js";const e=({...t})=>o("h5",{...t,class:r("mb-1 leading-none font-medium tracking-tight",t.class),children:m(n,null,3,"jZ_2")},null,0,"jZ_3");export{e as s_pg1GWPELEMo};

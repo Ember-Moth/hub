@@ -1,1 +1,0 @@
-import{j as s,m as r,S as t}from"./q-Q7QTf1-t.js";import{M as m}from"./q-Cfw5b693.js";import"./q-BKaOGYNW.js";import"./q-R_PFgutd.js";const n=({...l})=>s("div",{...l,class:m("text-sm [&_p]:leading-relaxed",l.class),children:r(t,null,3,"jZ_4")},null,0,"jZ_5");export{n as s_YpNTBVlbK2M};

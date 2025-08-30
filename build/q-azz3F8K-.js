@@ -1,0 +1,1 @@
+import"./q-BKaOGYNW.js";import{o,S as m}from"./q-gSxxJeWo.js";import{I as t}from"./q-DuNBRwv3.js";import"./q-B5TFmh5c.js";import"./q-CvYgVdLJ.js";const l=({...r})=>o(t,{...r,children:o(m,null,3,"mX_5")},0,"mX_6");export{l as s_obx8LoqjG94};

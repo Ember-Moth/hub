@@ -1,0 +1,1 @@
+import{k as s,o,S as t}from"./q-gSxxJeWo.js";import{M as l}from"./q-B5TFmh5c.js";import"./q-BKaOGYNW.js";import"./q-CvYgVdLJ.js";const n=r=>s("ol",{...r,class:l("flex flex-wrap items-center gap-1.5 text-sm break-words sm:gap-2.5",r.class),children:o(t,null,3,"2L_2")},null,0,"2L_3");export{n as s_Wr8V25wWwoA};

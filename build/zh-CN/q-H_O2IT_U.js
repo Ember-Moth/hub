@@ -1,1 +1,0 @@
-import"./q-BKaOGYNW.js";import{m as o,S as m,F as t}from"./q-Q7QTf1-t.js";import{V as s}from"./q-D3Ga_9CS.js";import{M as l}from"./q-Cfw5b693.js";import"./q-R_PFgutd.js";const _=({...r})=>o(t,{children:o(s,{...r,class:l("mb-1.5 font-semibold",r.class),children:o(m,null,3,"50_1")},0,"50_2")},1,"50_3");export{_ as s_oyMo60uabIY};
