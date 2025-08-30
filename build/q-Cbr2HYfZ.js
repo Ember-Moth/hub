@@ -1,0 +1,1 @@
+import"./q-BKaOGYNW.js";import{m as r,S as t}from"./q-Q7QTf1-t.js";import{H as e}from"./q-CzjLSqYn.js";import{M as m}from"./q-Cfw5b693.js";import"./q-DAeZLEpY.js";import"./q-R_PFgutd.js";const c=o=>r(e,{...o,class:m("font-medium peer-disabled:cursor-not-allowed peer-disabled:opacity-70",o.class),children:r(t,null,3,"81_0")},0,"81_1");export{c as s_XIaWUG6UJoE};

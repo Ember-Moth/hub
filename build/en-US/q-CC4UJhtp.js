@@ -1,0 +1,1 @@
+import{u as t}from"./q-Q7QTf1-t.js";import{_hW as i}from"./q-Q7QTf1-t.js";import"./q-BKaOGYNW.js";const n=r=>{const[o]=t();try{return r&&new URL(r),""}catch{return o}};export{i as _hW,n as s_lTEIqDPsQdk};

@@ -1,0 +1,1 @@
+import{L as a}from"./q-DTPKyc3d.js";import{i as f,m as t,l as o,S as i}from"./q-Q7QTf1-t.js";import"./q-R_PFgutd.js";import"./q-BKaOGYNW.js";import{l as m}from"./q-Cfw5b693.js";const _=r=>{const e=f(r,["href"]),s=m();return t(a,{href:s(r.href||""),prefetch:!0,...e,children:t(i,null,3,"Qu_0"),[o]:{prefetch:o}},0,"Qu_1")};export{_ as s_wONf074gNtQ};

@@ -1,0 +1,1 @@
+import{a as r,j as e}from"./q-Q7QTf1-t.js";import{p as s}from"./q-P_sM4yPl.js";import"./q-BKaOGYNW.js";const i=o=>{const t=r(s);return e("div",{ref:t.arrowRef,...o},null,0,"F6_0")};export{i as s_4L440snIVi4};

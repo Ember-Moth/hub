@@ -1,0 +1,1 @@
+import{i as a,m as o,S as i}from"./q-Q7QTf1-t.js";import"./q-BKaOGYNW.js";const e=s=>{const r=a(s,["as"]),t=s.as||"div";return o(t,{...r,children:o(i,null,3,"xa_0")},0,"xa_1")};export{e as s_Mrc9UiNeCow};

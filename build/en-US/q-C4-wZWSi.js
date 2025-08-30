@@ -1,0 +1,1 @@
+import{j as r,m as s,S as t}from"./q-Q7QTf1-t.js";import{M as l}from"./q-Cfw5b693.js";import"./q-BKaOGYNW.js";import"./q-R_PFgutd.js";const a=({...e})=>r("div",{...e,class:l("relative flex h-10 w-10 shrink-0 items-center justify-center overflow-hidden rounded-full",e.class),children:s(t,null,3,"FN_0")},null,0,"FN_1");export{a as s_pEeRtWiZzsQ};
